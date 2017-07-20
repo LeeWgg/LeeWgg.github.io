@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[我的第一篇博客]]></title>
+    <url>%2F2017%2F07%2F20%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[作为一名程序员，之前一直有搭建个人博客的想法。想着写写一些技术有关的东西和记录自己的生活。但是由于本人懒癌严重，再加上害羞于自己的文笔，所以一直拖到现在。不过没关系，该来的还是来了！ 博客既然搭上了，我还是要坚持！我尽量会让自己一周能出一篇博文！给自己加油！ ❤❤]]></content>
+      <categories>
+        <category>日志</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2017%2F07%2F20%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
